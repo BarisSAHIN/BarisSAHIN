@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BarisSAHIN
-- 👀 I’m interested in Frontend development with React and Angular right now
-- 🌱 I’m currently learning React and some important tools such as Storybook
+- 👀 I’m interested in Frontend development with React(mostly) and Angular right now
+- 🌱 I’m currently working with React with Next
 
 - 📫 How to reach me ...
 
